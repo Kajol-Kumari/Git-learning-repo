@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "anuragbhu",
+      "name": "Anurag Pandey",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/51694364?v=4",
+      "profile": "http://anuragbhu.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -1,4 +1,7 @@
 # Git-learning-repo
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repo is basically made for a complete begnner make his/her first contribution and get acquainted with the open source ♥‿♥. You are welcomed to fork this repo and follow the steps mentioned below and come up with a PR, I would be happy to merge it (~˘▾˘)~
 
@@ -13,3 +16,22 @@ This repo is basically made for a complete begnner make his/her first contributi
 - Make a PR.
 
 YAY!! You have made your first open source contribution ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/kajol-kumari-73245b166/"><img src="https://avatars0.githubusercontent.com/u/44888949?v=4" width="100px;" alt=""/><br /><sub><b>kajol</b></sub></a><br /><a href="https://github.com/Kajol-Kumari/Git-learning-repo/commits?author=Kajol-Kumari" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

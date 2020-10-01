@@ -1,6 +1,6 @@
 # Git-learning-repo
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repo is basically made for a complete begnner make his/her first contribution and get acquainted with the open source ♥‿♥. You are welcomed to fork this repo and follow the steps mentioned below and come up with a PR, I would be happy to merge it (~˘▾˘)~
@@ -33,6 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/kanika321"><img src="https://avatars3.githubusercontent.com/u/55401625?v=4" width="100px;" alt=""/><br /><sub><b>Kanika Gupta</b></sub></a><br /><a href="https://github.com/Kajol-Kumari/Git-learning-repo/commits?author=kanika321" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Nivedita967"><img src="https://avatars3.githubusercontent.com/u/66518355?s=460&u=0d810dc2004aa812559457d1fdf3100ebab8545a&v=4" width="100px;" alt=""/><br /><sub><b>Nivedita Singh</b></sub></a><br /><a href="https://github.com/Kajol-Kumari/Git-learning-repo/commits?author=Nivedita967" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/sudhanshu150#hi-there-"><img src="https://avatars3.githubusercontent.com/u/42195119?v=4" width="100px;" alt=""/><br /><sub><b>SUDHANSHU</b></sub></a><br /><a href="https://github.com/Kajol-Kumari/Git-learning-repo/commits?author=sudhanshu150" title="Code">💻</a></td>
+    <td align="center"><a href="https://bit.do/resVin"><img src="https://avatars0.githubusercontent.com/u/56196638?v=4" width="100px;" alt=""/><br /><sub><b>Vinamra</b></sub></a><br /><a href="https://github.com/Kajol-Kumari/Git-learning-repo/commits?author=Vinamra2009" title="Documentation">📖</a></td>
   </tr>
 </table>
 

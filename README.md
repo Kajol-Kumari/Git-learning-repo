@@ -17,6 +17,8 @@ This repo is basically made for a complete begnner make his/her first contributi
 
 YAY!! You have made your first open source contribution ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
 
+DO STAR(🌟) THIS REPOSITORY IF YOU LIKE IT!! 😊
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repo is basically made for a complete begnner make his/her first contribution and get acquainted with the open source ♥‿♥. You are welcomed to fork this repo and follow the steps mentioned below and come up with a PR, I would be happy to merge it (~˘▾˘)~
+This repo is basically made for a complete beginner make his/her first contribution and get acquainted with the open source ♥‿♥. You are welcomed to fork this repo and follow the steps mentioned below and come up with a PR, I would be happy to merge it (~˘▾˘)~
 
 - Fork the repo
 - Clone it on local (git clone <your_forked_repo_url>)

@@ -1,6 +1,6 @@
 # Git-learning-repo
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repo is basically made for a complete beginner make his/her first contribution and get acquainted with the open source ♥‿♥. You are welcomed to fork this repo and follow the steps mentioned below and come up with a PR, I would be happy to merge it (~˘▾˘)~
@@ -38,6 +38,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/SudhanshuRanjan2005"><img src="https://avatars3.githubusercontent.com/u/69910996?v=4" width="100px;" alt=""/><br /><sub><b>SUDHANSHU RANJAN JHA</b></sub></a><br /><a href="https://github.com/Kajol-Kumari/Git-learning-repo/commits?author=SudhanshuRanjan2005" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Deepesh-tech-fanatic-07"><img src="https://avatars1.githubusercontent.com/u/75992194?v=4" width="100px;" alt=""/><br /><sub><b>Deepesh</b></sub></a><br /><a href="https://github.com/Kajol-Kumari/Git-learning-repo/commits?author=Deepesh-tech-fanatic-07" title="Documentation">📖</a></td>
   </tr>
 </table>
 
